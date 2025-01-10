@@ -1,9 +1,4 @@
 {
   "root": ".",
-  "clean_urls": true,
-  "headers": {
-    "/**": {
-      "Cache-Control": "no-cache"
-    }
-  }
+  "clean_urls": true
 }
